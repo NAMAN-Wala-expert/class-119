@@ -1,0 +1,13 @@
+{"intents": [
+    {"tag":"greeting", 
+     "patterns": ["hi there","how are you?","who are you?","why do you exist?"],
+     "responses": ["hi where?","i am matter","i am a human","to give you a response"]
+    },
+    {"tag":"goodbye",
+     "patterns":["bye ","seeya","nice to meet you"],
+     "responses":["bye","see you soon","nice to mee you to "]
+    }
+  ]
+}
+
+    
